@@ -1,0 +1,1 @@
+await navigator.gpu.requestAdapter();
